@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Isabella Suchikul 
+- 👋 Hi, I'm Ella Suchikul 
 - 👀 I'm interested in Software Development, Machine Learning, and Project Management. 
 - 🌱 I’m currently learning Cloud Computing and Web Programming. 
 - 💞️ I’m eager to collaborate on projects that create a positive impact, especially in the health and fitness space, which I am deeply passionate about. 
